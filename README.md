@@ -31,7 +31,7 @@ Similar for book length, I divided the data set into 2 groups:
 
 
 ![](Images/genres.png)
-Also, because there were a lot of sub-genres, I put them into 10 major group of genre. 
+Also, because there were a lot of sub-genres, I put them into 10 major groups of genre. 
 For example, "History", "Politics", and "Cooking" are considered "Non-Fiction". Or "Mystery", "Crime" and "Horror" are classified as "Thriller".
 
 
