@@ -78,7 +78,7 @@ Looking at these recommendations, I think this model does an ok job, because "In
 ### Full Complexity Model
 Instead of just using description, I added author's name and gernes of the book
 
-**Feature:** Description, Author, Genre
+**Features:** Description, Author, Genre
 
 
 **Process:** It's similar with how I created the previous one but with more information in the BoWs
