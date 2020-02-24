@@ -10,27 +10,28 @@
 
 ### Exploratory Data Analysis
 
+![](Images/num_rating_per_book.png)
 Using this graph, I decided to group the dataset into 3 groups of popularity: 
 - "Super Popular": number of ratings < 27000
 - "Well Known": 27000 < number of ratings < 800000
 - "Deep Cut": number of ratings > 80000
-![](Images/num_rating_per_book.png)
 
+</br>
 
   
 
-
+![](Images/num_page_per_book.png)
 Similar for book length, I divided the data set into 2 groups:
 - Short: pages < 350
 - Long: pages > 350
 
-![](Images/num_page_per_book.png)
+</br>
 
 
-
+![](Images/genres.png)
 Also, because there were a lot of sub-genres, I put them into 10 major group of genre. 
 For example, "History", "Politics", and "Cooking" are considered "Non-Fiction". Or "Mystery", "Crime" and "Horror" are classified as "Thriller".
-![](Images/genres.png)
+
 
 
 
