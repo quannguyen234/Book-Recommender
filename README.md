@@ -1,7 +1,7 @@
 # Your Next Page Turner -  Book Recommender
 
 ### Project Objectives
-- Introduce similar books to reader using Content-Based Recommendation System
+- Introduce similar books to readers using Content-Based Recommendation System
 - Add filters for better recommendations
 
 ### Dataset
