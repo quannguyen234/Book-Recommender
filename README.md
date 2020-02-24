@@ -11,6 +11,7 @@
 ### Exploratory Data Analysis
 
 ![](Images/num_rating_per_book.png)
+
 Using this graph, I decided to group the dataset into 3 groups of popularity: 
 - "Super Popular": number of ratings < 27000
 - "Well Known": 27000 < number of ratings < 800000
@@ -21,6 +22,7 @@ Using this graph, I decided to group the dataset into 3 groups of popularity:
   
 
 ![](Images/num_page_per_book.png)
+
 Similar for book length, I divided the data set into 2 groups:
 - Short: pages < 350
 - Long: pages > 350
